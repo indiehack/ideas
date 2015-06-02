@@ -4,4 +4,4 @@ i suggest we have 1 .md per project
 
 ## Links
 
-[Agenda]((program.md))
+[Agenda](program.md)
