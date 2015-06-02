@@ -5,12 +5,12 @@ hackathon program - suggestions
 ## intro
 - target of this
 - program
-- prizes
+- prizes :)
 
 ## technology preview
 - node & stuff
-- typesccript
-- vagrant
+- [TypeScript](http://www.typescriptlang.org/)
+- [Vagrant](https://www.vagrantup.com/)
 
 ## ideas presentations & discussion
 - 3-5 mins per idea
