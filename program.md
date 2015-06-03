@@ -1,10 +1,7 @@
-hackathon program - suggestions
-
-# THURSDAY
+# THURSDAY 4/6/2015 18:00 - ?
 
 ## intro
-- target of this
-- program
+- hackathon organisation, goals and wishes
 - prizes :)
 
 ## technology preview
@@ -17,28 +14,28 @@ hackathon program - suggestions
 - everyone will say something (why its good, why bad ...) ~10min
 - presenter will answer all concerns at once ~2 min
 
-
 ## ideas voting
-- ~ N-2 points par attendee
+- ~N-2 points par attendee
 - 2-3 to select
 
 ## build teams
-- ~ 5 per team
+- ~3-5 per team
 - ppl will select which project they want to work on
 
 ## battle plan preparation
 -> deliverable - a quick plan off what will be done & how
+-> demo - expected outcome by the end of the day
 
-
-# FRIDAY
+# FRIDAY 5/6/2015 9:00 - 22:00
 
 ## intro
+- settle down
+- quick tech review
 
-## quick tech review
+## happy coding
 
-## start :)
-
-## project presentation - 21:00 ?
+## project presentation - 21:00
 - every team has 10 min to present what they did & where they got
 - ppl vote 
-- celebration :)
+- winner
+- (discussion how to support the project onwards)
