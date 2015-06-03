@@ -23,8 +23,8 @@
 - ppl will select which project they want to work on
 
 ## battle plan preparation
--> deliverable - a quick plan off what will be done & how
--> demo - expected outcome by the end of the day
+- deliverable - a quick plan off what will be done & how
+- demo - expected level of detail to be presented by the end of the day
 
 # FRIDAY 5/6/2015 9:00 - 22:00
 
