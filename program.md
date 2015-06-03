@@ -8,6 +8,7 @@
 - node & stuff
 - [TypeScript](http://www.typescriptlang.org/)
 - [Vagrant](https://www.vagrantup.com/)
+- [LoopBack](http://loopback.io/)
 
 ## ideas presentations & discussion
 - 3-5 mins per idea
