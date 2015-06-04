@@ -28,3 +28,5 @@ Už pouhá poloviční realizace verze 1 se dá pokládat za úspěch. A co tepr
 - Dietní jídelna ve Spálené http://www.prahamp.cz/index.php?nid=7262&lid=cs&oid=2797599
 - http://www.deliviet.cz/jidelni-listek
 - Jednota v Oletalce (nutno zvolit) https://kamweb.ruk.cuni.cz/webkredit/ZalozkaObjednavani.aspx
+- Zdroj dat: http://www.menicka.cz/
+- http://www.udzberu.cz/?menu=3
