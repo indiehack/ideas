@@ -20,11 +20,11 @@ Už pouhá poloviční realizace verze 1 se dá pokládat za úspěch. A co tepr
 
 
 ## Pár odkazů na menu okolních oblíbených restraurací
-http://www.pricnyrez.cz/cz
-http://reznicka.jinakrajina.cz/cs/denni-nabidka/
-http://www.elpueblo.cz/cs/denni-nabidka/
-Hloupý Honza: https://www.zomato.com/cs/widgets/daily_menu?entity_id=16506572
-http://www.bombayexpress.cz/nabidka/#mix a http://www.bombayexpress.cz/denni-nabidka/ (přes odkaz)
-Dietní jídelna ve Spálené http://www.prahamp.cz/index.php?nid=7262&lid=cs&oid=2797599
-http://www.deliviet.cz/jidelni-listek
-Jednota v Oletalce (nutno zvolit) https://kamweb.ruk.cuni.cz/webkredit/ZalozkaObjednavani.aspx
+- http://www.pricnyrez.cz/cz
+- http://reznicka.jinakrajina.cz/cs/denni-nabidka/
+- http://www.elpueblo.cz/cs/denni-nabidka/
+- Hloupý Honza: https://www.zomato.com/cs/widgets/daily_menu?entity_id=16506572
+- http://www.bombayexpress.cz/nabidka/#mix a http://www.bombayexpress.cz/denni-nabidka/ (přes odkaz)
+- Dietní jídelna ve Spálené http://www.prahamp.cz/index.php?nid=7262&lid=cs&oid=2797599
+- http://www.deliviet.cz/jidelni-listek
+- Jednota v Oletalce (nutno zvolit) https://kamweb.ruk.cuni.cz/webkredit/ZalozkaObjednavani.aspx
