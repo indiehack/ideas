@@ -2,11 +2,11 @@
 
 ## 3 repositories
 
-### [Backend]()
+### [Backend](https://github.com/indiehack/back)
 
-### [Frontend]()
+### [Frontend](https://github.com/indiehack/front)
 
-### [Server]()
+### [Server](https://github.com/indiehack/server)
 contains all prerequisities for backend and frontend, combines them together
 runs on a static IP on your computer: 
 
