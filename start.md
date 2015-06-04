@@ -3,8 +3,11 @@
 ## 3 repositories
 
 ### [Backend](https://github.com/indiehack/back)
+simple API example built on LoopBack
 
 ### [Frontend](https://github.com/indiehack/front)
+simple example frontend with TypeScript
+alternatively, an Angular seed may be used, as well - [see readme](https://github.com/indiehack/front/blob/master/README.md)
 
 ### [Server](https://github.com/indiehack/server)
 contains all prerequisities for backend and frontend, combines them together
